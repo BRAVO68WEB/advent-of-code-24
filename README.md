@@ -1,8 +1,8 @@
-# Advent of Code 20XX (AoC 20XX)
+# Advent of Code 2024 (AoC 2024)
 
-![AoCXX](https://repository-images.githubusercontent.com/726431802/c8e91bfc-1db4-4fa8-93b2-dcb8cf18cc0c)
+![AoC24](https://repository-images.githubusercontent.com/726431802/c8e91bfc-1db4-4fa8-93b2-dcb8cf18cc0c)
 
-This is my repository for the [Advent of Code 20XX](https://adventofcode.com/20XX) challenge.
+This is my repository for the [Advent of Code 2024](https://adventofcode.com/2024) challenge.
 
 Languages used:
 
@@ -25,7 +25,7 @@ Check [README.md](code/rs/README.md) in the `rs` directory.
 
 ## Checklists
 
--   [ ] Day 1
+-   [x] Day 1
 -   [ ] Day 2
 -   [ ] Day 3
 -   [ ] Day 4
@@ -53,6 +53,6 @@ Check [README.md](code/rs/README.md) in the `rs` directory.
 
 ## License
 
-All solutions for [AoC 20XX](https://adventofcode.com/20XX) by X is licensed under [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/)
+All solutions for [AoC 2024](https://adventofcode.com/2024) by BRAVO68WEB is licensed under [CC BY-ND 4.0](https://creativecommons.org/licenses/by-nd/4.0/)
 
-> Merry Christmas and Happy New Year 20XX!
+> Merry Christmas and Happy New Year 2024!

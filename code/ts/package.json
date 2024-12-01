@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "description": "Typescript Runner",
     "license": "ISC",
-    "author": "X",
+    "author": "BRAVO68WEB",
     "scripts": {
         "ts": "bun run runner.ts"
     },
