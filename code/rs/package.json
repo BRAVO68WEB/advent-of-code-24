@@ -1,0 +1,11 @@
+{
+    "name": "rs",
+    "version": "1.0.0",
+    "description": "Rust Cargo Runner",
+    "license": "ISC",
+    "author": "X",
+    "scripts": {
+        "rust": "cargo run"
+    },
+    "keywords": []
+}

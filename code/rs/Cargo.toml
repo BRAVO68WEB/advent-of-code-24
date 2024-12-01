@@ -1,0 +1,16 @@
+[package]
+name = "aoc-20xx"
+version = "0.1.0"
+edition = "2021"
+authors = ["X"]
+default-run = "aoc-20xx"
+
+[dependencies]
+
+[profile.release]
+lto = "fat"
+codegen-units = 1
+
+[[bin]]
+name = "day01"
+path = "src/d1.rs"
