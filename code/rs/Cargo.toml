@@ -1,9 +1,9 @@
 [package]
-name = "aoc-20xx"
+name = "aoc-2024"
 version = "0.1.0"
 edition = "2021"
-authors = ["X"]
-default-run = "aoc-20xx"
+authors = ["BRAVO68WEB"]
+default-run = "aoc-2024"
 
 [dependencies]
 

@@ -1,3 +1,3 @@
-# Day 1: XXXXX
+# Day 1: Historian Hysteria
 
-Read the [problem statement](https://adventofcode.com/20XX/day/1) carefully.
+Read the [problem statement](https://adventofcode.com/2024/day/1) carefully.
