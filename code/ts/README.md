@@ -13,7 +13,7 @@ This is my repository for the [Advent of Code 2024](https://adventofcode.com/202
 
 ### Prerequisites
 
--   [Bunjs](https://bun.sh) (v1.0.0)
+- [Bunjs](https://bun.sh) (v1.0.0)
 
 ### Run
 

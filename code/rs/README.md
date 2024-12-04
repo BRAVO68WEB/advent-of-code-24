@@ -2,15 +2,15 @@
 
 This is my repository for the [Advent of Code 2024](https://adventofcode.com/2024) challenge.
 
-| AOC Day | Solution                     |
-| ------- | ---------------------------- |
-| Day 1   | [Check Solution](src/d1.rs)  |
+| AOC Day | Solution                    |
+| ------- | --------------------------- |
+| Day 1   | [Check Solution](src/d1.rs) |
 
 ## How to run
 
 ### Prerequisites
 
--   [Rustup](https://rustup.rs/)
+- [Rustup](https://rustup.rs/)
 
 ### Run
 

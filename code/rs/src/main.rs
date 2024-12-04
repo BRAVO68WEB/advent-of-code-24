@@ -4,9 +4,7 @@
 use aoc_2024::*;
 
 fn main() {
-    let mains = [
-        d1::main,
-    ];
+    let mains = [d1::main];
 
     let now = std::time::Instant::now();
 
