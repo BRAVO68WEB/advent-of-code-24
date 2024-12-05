@@ -1,3 +1,3 @@
-# Day 4: Ceres Search
+# Day 5: Print Queue
 
-Read the [problem statement](https://adventofcode.com/2024/day/4) carefully.
+Read the [problem statement](https://adventofcode.com/2024/day/5) carefully.
