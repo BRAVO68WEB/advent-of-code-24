@@ -9,6 +9,7 @@ This is my repository for the [Advent of Code 2024](https://adventofcode.com/202
 | Day 3   | [Check Solution](03/README.md) |
 | Day 4   | [Check Solution](04/README.md) |
 | Day 5   | [Check Solution](05/README.md) |
+| Day 6   | [Check Solution](06/README.md) |
 
 ## How to run
 
