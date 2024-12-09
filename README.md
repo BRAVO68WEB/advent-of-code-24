@@ -31,7 +31,7 @@ Check [README.md](code/rs/README.md) in the `rs` directory.
 - [x] Day 4
 - [x] Day 5
 - [x] Day 6
-- [ ] Day 7
+- [x] Day 7
 - [ ] Day 8
 - [ ] Day 9
 - [ ] Day 10
