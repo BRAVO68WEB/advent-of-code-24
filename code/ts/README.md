@@ -12,6 +12,8 @@ This is my repository for the [Advent of Code 2024](https://adventofcode.com/202
 | Day 6   | [Check Solution](06/README.md) |
 | Day 7   | [Check Solution](07/README.md) |
 | Day 8   | [Check Solution](08/README.md) |
+| Day 9   | [Check Solution](09/README.md) |
+| Day 10  | [Check Solution](10/README.md) |
 
 ## How to run
 
