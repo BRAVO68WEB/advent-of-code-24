@@ -1,3 +1,3 @@
-# Day 11: Plutonian Pebbles
+# Day 12: Garden Groups
 
-Read the [problem statement](https://adventofcode.com/2024/day/11) carefully.
+Read the [problem statement](https://adventofcode.com/2024/day/12) carefully.
